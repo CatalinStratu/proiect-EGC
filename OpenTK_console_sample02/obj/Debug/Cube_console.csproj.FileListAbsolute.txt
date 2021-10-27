@@ -1,0 +1,12 @@
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe.config
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.pdb
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.dll
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.dll
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.xml
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.xml
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Cube_console.csprojAssemblyReference.cache
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Cube_console.csproj.CoreCompileInputs.cache
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Cube_console.csproj.CopyComplete
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.exe
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.pdb

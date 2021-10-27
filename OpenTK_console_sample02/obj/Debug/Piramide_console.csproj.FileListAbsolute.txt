@@ -1,0 +1,36 @@
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe.config
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.pdb
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.dll
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.dll
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.xml
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.xml
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csproj.CoreCompileInputs.cache
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csproj.CopyComplete
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.exe
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.pdb
+G:\EGC\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csprojAssemblyReference.cache
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe.config
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.pdb
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.dll
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.dll
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.xml
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.xml
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csprojAssemblyReference.cache
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csproj.CoreCompileInputs.cache
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csproj.CopyComplete
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.exe
+G:\EGC\New folder\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.pdb
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe.config
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.exe
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK_console_sample02.pdb
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.dll
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.dll
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.xml
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\bin\Debug\OpenTK.GLControl.xml
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csprojAssemblyReference.cache
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csproj.CoreCompileInputs.cache
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\Piramide_console.csproj.CopyComplete
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.exe
+G:\EGC\Ursu Anastasia(Grupa 3131B)\tema_lab2\OpenTK_Introducere\OpenTK_console_sample02\obj\Debug\OpenTK_console_sample02.pdb
